@@ -34,3 +34,4 @@ cd pipex
 make
 echo -e "I love pipex\nAnd bash scripting\nend" > infile
 ./pipex infile "grep i" "wc -l" outfile
+```
